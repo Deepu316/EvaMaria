@@ -52,16 +52,14 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
-<details><summary>Deploy To Heroku</summary>
-<p>
+<summary>Deploy To Heroku</summary>
 <br>
-<a href="https://github.com/Deepu316/EvaMaria">
+<p>
+<a href="https://heroku.com/deploy?template=https://github.com/Deepu316/EvaMaria">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
-</details>
 
 <details><summary>Deploy To VPS</summary>
 <p>
